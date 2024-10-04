@@ -1,14 +1,15 @@
-# **Crimson Modding Team Founders**
+# Basic Information
+## **Crimson Modding Team Founders**
 1. dj04dj / Th€Cxrsedzθne
 2. EternalModz / ComedyCrafter
 3. VosQuz / ZanTheHaxer
 4. zCrucifix / DeadModz
-5.  x_ender_dragon_x (New leader)
+5. x_ender_dragon_x (New leader)
 
-# **Who We Are**
+## **Who We Are**
 We are a large community of talented people creating awesome content!
 
-# **License**
+## **License**
 Mostly everything we do is 100% open-source and under the **GNU Affero General Public License V3.** Information about this license can be found here: [The Official AGPL V3 License Documentation.](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
 All of our work in terms of software will be found on either Repl.it or GitHub. *Note that the code for a few projects may stay private.*
