@@ -1,0 +1,2 @@
+# Attention!
+Universal server rules apply, with case-by-case evaluation for violations leading to warnings or bans. Moderators may address disruptive behavior not explicitly covered. Non-compliance can result in disciplinary action, including potential server access termination, at staff discretion. We reserve the right to modify rules without notice and remove individuals from Discord. These rules aim for a positive community, echoing Professor Dumbledore: "We are only as strong as we are united, as weak as we are divided."
