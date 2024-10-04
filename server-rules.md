@@ -1,4 +1,4 @@
-# **Server Rules & Guidelines**
+# **Rules^^
 
 1. **Respect Others:** Treat everyone with kindness; no personal attacks, harassment, or discrimination. Avoid spam and excessive tagging.
 2. **Family-Friendly Environment:** Keep content appropriate; slurs and NSFW material are not allowed. Memes should be in good taste.
