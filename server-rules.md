@@ -1,28 +1,20 @@
 # **Server Rules & Guidelines**
 
-These rules apply to every channel equally.
+1. **Respect Others:** Treat everyone with kindness; no personal attacks, harassment, or discrimination. Avoid spam and excessive tagging.
+2. **Family-Friendly Environment:** Keep content appropriate; slurs and NSFW material are not allowed. Memes should be in good taste.
+3. **No Threats or Harassment:** Threats and intimidation, including in DMs, are prohibited. Report any issues to moderators.
+4. **No Self-Promotion:** Self-advertising is allowed only in designated channels. Keep the community focused.
+5. **Protect Personal Information:** Do not share sensitive personal details or request others' real names and ages.
+6. **Tagging Guidelines:** Tag individuals only when necessary; avoid unnecessary tags, especially for admins and members.
+7. **Follow Discord Guidelines:** Adhere to [Discord's Official Guidelines](https://discordapp.com/guidelines) and Terms of Service.
+8. **Moderator Authority:** Admins and Moderators have the final say on content; comply with their requests.
+9. **No Politics:** Political discussions can lead to arguments; please avoid them in the community.
+10. **No NSFW:** NSFW content, including inappropriate imagery or chat, is strictly banned and will result in a ban.
+11. **No Role Begging:** Do not beg for roles, including staff positions; we will communicate when roles are available.
+12. **Stay on Topic:** Keep discussions relevant to each channel to maintain clarity and focus.
+13. **Roleplay:** Roleplaying is only allowed in specified channels; respect existing lore and systems.
+14. **Be Kind:** Treat others with kindness and common sense; this is a safe space for everyone.
+15. **No Hate:** Hate speech is not tolerated; report any hateful behavior to moderators.
+16. **Report to Staff:** Report rule violations to staff rather than confronting individuals directly. Avoid spam pinging admins and DMs to members unless requested.
 
-1. **Respect Others:**
-   - Treat everyone with respect; avoid attacks, harassment, or discriminatory remarks based on gender, sexual orientation, gender, race, or self-expression.
-   - No spamming; talking a lot is fine, but avoid posting random garbage that has no context and annoys people. Spamming and unnecessary pinging is not allowed.
-
-2. **Family-Friendly Environment:**
-   - No inappropriate language, slurs or severely inappropriate posts. Memes are welcome if they are in good taste.
-
-3. **No Threats or Harassment:**
-   - Do not threaten, harass, or intimidate others in any form, this includes in DMs!
-
-4. **No Self-Promotion:**
-   - Avoid self-advertising or promoting other Minecraft servers or websites unless it is in the dedicated channel.
-
-5. **Protect Personal Information:**
-   - Do not share personal information such as phone numbers, physical addresses, or any details more precise than a state or province. Do not request or share others' real names or ages.
-
-6. **Tagging Guidelines:**
-   - Only tag individuals or roles when necessary for legitimate reasons.
-
-7. **Follow Discord Guidelines:**
-   - Adhere to [Discord's Official Guidelines](https://discordapp.com/guidelines).
-
-8. **Moderator Authority:**
-   - Admins and Guardians (Moderators) have final authority on permissible content.
+// Thanks to AntVenom + Zachcraftone for inspiration for a few of these!
