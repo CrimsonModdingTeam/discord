@@ -3,7 +3,7 @@
 1. **Respect Others:** Treat everyone with kindness; no personal attacks, harassment, or discrimination. Avoid spam and excessive tagging.
 2. **Family-Friendly Environment:** Keep content appropriate; slurs and NSFW material are not allowed. Memes should be in good taste.
 3. **No Threats or Harassment:** Threats and intimidation, including in DMs, are prohibited. Report any issues to moderators.
-4. **No Self-Promotion:** Self-advertising is allowed only in designated channels. Keep the community focused.
+4. **No Self-Promotion:** Self-advertising is not allowed. Keep the community focused.
 5. **Protect Personal Information:** Do not share sensitive personal details or request others' real names and ages.
 6. **Tagging Guidelines:** Tag individuals only when necessary; avoid unnecessary tags, especially for admins and members.
 7. **Follow Discord Guidelines:** Adhere to [Discord's Official Guidelines](https://discordapp.com/guidelines) and Terms of Service.
