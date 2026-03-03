@@ -21,8 +21,10 @@
 7. **No Threats or Harassment (Including DMs)**  
    Threats, intimidation, stalking, unwanted sexual content, or continued unwanted contact are not allowed, even in DMs, if it’s connected to this server.
 
-8. **No Piracy, NSFW, or Suspicious Content**  
-   No piracy requests or links, illegal content, NSFW content, or sketchy downloads. This includes anything in profiles, including names, avatars, bios, and banners.
+8. **No Piracy, Leaks, NSFW, or Suspicious Content**  
+   No piracy requests or links, illegal content, NSFW content, or sketchy downloads. This includes, but is not limited to, sharing or requesting ISOs, PKGs, ROMs, game updates, DLC, license files, decryption keys, copyrighted assets, or links to sites that host them.  
+   Leaks are not allowed, including unreleased builds, internal files, private source code, stolen materials, or any content not meant for public release.  
+   This rule also applies to anything in profiles, including names, avatars, bios, and banners.
 
 9. **No Politics**  
    No political discussion, advocacy, election talk, culture-war topics, or political memes. Take it elsewhere.
