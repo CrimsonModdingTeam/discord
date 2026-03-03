@@ -1,20 +1,39 @@
 # **Rules**
 
-1. **Respect Others:** Treat everyone with kindness; no personal attacks, harassment, or discrimination. Avoid spam and excessive tagging.
-2. **Family-Friendly Environment:** Keep content appropriate; slurs and NSFW material are not allowed. Memes should be in good taste.
-3. **No Threats or Harassment:** Threats and intimidation, including in DMs, are prohibited. Report any issues to moderators.
-4. **No Self-Promotion:** Self-advertising is not allowed. Keep the community focused.
-5. **Protect Personal Information:** Do not share sensitive personal details or request others' real names and ages.
-6. **Tagging Guidelines:** Tag individuals only when necessary; avoid unnecessary tags, especially for admins and members.
-7. **Follow Discord Guidelines:** Adhere to [Discord's Official Guidelines](https://discordapp.com/guidelines) and Terms of Service.
-8. **Moderator Authority:** Admins and Moderators have the final say on content; comply with their requests.
-9. **No Politics:** Political discussions can lead to arguments; please avoid them in the community.
-10. **No NSFW:** NSFW content, including inappropriate imagery or chat, is strictly banned and will result in a ban.
-11. **No Role Begging:** Do not beg for roles, including staff positions; we will communicate when roles are available.
-12. **Stay on Topic:** Keep discussions relevant to each channel to maintain clarity and focus.
-13. **Roleplay:** Roleplaying is only allowed in specified channels; respect existing lore and systems.
-14. **Be Kind:** Treat others with kindness and common sense; this is a safe space for everyone.
-15. **No Hate:** Hate speech is not tolerated; report any hateful behavior to moderators.
-16. **Report to Staff:** Report rule violations to staff rather than confronting individuals directly. Avoid spam pinging admins and DMs to members unless requested.
+1. **Be Cool, Kind, and Civil**  
+   Treat everyone with respect and keep things constructive. No personal attacks, harassment, discrimination, hate speech, slurs, bullying, elitism, or skill-shaming.
 
-// Thanks to AntVenom + Zachcraftone for inspiration for a few of these!
+2. **Keep Your Discord Profile Appropriate**  
+   Usernames, nicknames, avatars, banners, bios, and statuses must be PG and rule-compliant. No obscenities, slurs, sexual content, impersonation, or intentionally disruptive names, including excessive symbols.
+
+3. **No Spam**  
+   Don’t flood chat with repeated messages, images, copypasta, excessive formatting, emoji, bot commands, or unnecessary @mentions. Don’t “micro-spam” either, meaning rapid, short messages.
+
+4. **Don’t Ping or DM Staff Unless Necessary**  
+   Moderators and admins are here voluntarily. Don’t @mention or DM staff out of the blue. If you need moderation help, use the server’s report method, such as a report channel or ModMail, or ping staff only for a clear moderation reason.
+
+5. **Limited Self-Promo and Advertising**  
+   No unsolicited advertising or invite links in chat or DMs. Sharing your own work is allowed only if it’s relevant to the conversation or if you have staff permission first. Don’t ask people to check your profile or DM you for promo.
+
+6. **No Personal Information**  
+   Don’t share or request private info, yours or others. No doxxing. Don’t pressure anyone for real names, age, location, private socials, or anything that could identify them.
+
+7. **No Threats or Harassment (Including DMs)**  
+   Threats, intimidation, stalking, unwanted sexual content, or continued unwanted contact are not allowed, even in DMs, if it’s connected to this server.
+
+8. **No Piracy, NSFW, or Suspicious Content**  
+   No piracy requests or links, illegal content, NSFW content, or sketchy downloads. This includes anything in profiles, including names, avatars, bios, and banners.
+
+9. **No Politics**  
+   No political discussion, advocacy, election talk, culture-war topics, or political memes. Take it elsewhere.
+
+10. **Stay On Topic**  
+   Use the right channels and keep discussions relevant so information stays organized and easy to find.
+
+11. **Follow Discord ToS and Staff Direction**  
+   Discord’s Terms and Community Guidelines apply. Staff may remove content and issue warnings, timeouts, or bans. Trying to loophole the rules or argue “technically” is still enforceable.
+
+12. **Report Issues to Staff**  
+   Don’t publicize or escalate fights. Report rule-breaking to staff instead of confronting people directly.
+
+_Thanks to AntVenom and Zachcraftone for inspiring a few of these!_
